@@ -1,0 +1,384 @@
+ Part II. Item 7. Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Overview 
+
+Expedia Group's mission is to power global travel for everyone, everywhere. We believe travel is a force for good. Travel is an essential human experience that strengthens connections, broadens horizons and bridges divides. We help reduce the barriers to travel, making it easier, more enjoyable, more attainable and more accessible. We bring the world within reach for customers and partners around the globe. We leverage our supply portfolio, platform and technology capabilities across an extensive portfolio of consumer brands, and provide solutions to our business partners, to empower travelers to efficiently research, plan, book and experience travel. We make available, on a stand-alone and package basis, travel services provided by numerous lodging properties, airlines, car rental companies, activities and experiences providers, cruise lines, alternative accommodations property owners and managers, and other travel product and service companies. We also offer travel and non-travel advertisers access to a potential source of incremental traffic and transactions through our various media and advertising offerings on our websites. For additional information about our portfolio of brands, see the disclosure set forth in Part I, Item 1, Business, under the caption &#8220;Market Opportunity and Business Strategy.&#8221; 
+
+This section of this Form 10-K generally discusses the years ended December 31, 2023 and 2022 items and year over year comparisons between 2023 and 2022. Discussions of the year ended December 31, 2021 items and the year over year comparisons between 2022 and 2021 that are not included in this Form 10-K can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, Item 7 of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2022. All percentages within this section are calculated on actual, unrounded numbers. 
+
+Trends 
+
+Starting in early 2020, the COVID-19 pandemic, and measures to contain the virus, including government travel restrictions and quarantine orders, had an unprecedented impact on the global travel industry and materially and negatively impacted our business, financial results and financial condition. Travel was severely depressed during 2020, with reduced levels of new bookings. In 2021, we began to see a bookings recovery. In 2022, there was a strong, but uneven, recovery in travel demand with different regions around the world experiencing different rates of recovery. In 2023, the overall reopening of the Asia-Pacific region and general recovery outside of the United States was a factor in the gross bookings year-over-year growth rate for our B2B segment, but any other lingering impacts of the pandemic did not have a significant impact on our businesses, and we expect that to remain the case for future periods. 
+
+More recently, inflation and other macroeconomic pressures in the U.S. and the global economy, such as rising interest rates, currency fluctuations and energy price volatility, as well as evolving geopolitical conflicts, have contributed to an increasingly complex business environment. Our future operational results may be subject to volatility, particularly in the short-term, due to the impact of the aforementioned trends. Broad, sustained negative economic impacts could put strain on our suppliers, business and service partners, which increases the risk of credit losses and service level or other disruptions. 
+
+Additionally, further health-related events, political instability, geopolitical conflicts, acts of terrorism, significant fluctuations in currency values, sustained levels of increased inflation, sovereign debt issues, and natural disasters, are examples of other events that could have a negative impact on the travel industry in the future. 
+
+Despite these factors, we have witnessed a healthy recovery of travel demand, which remains strong and is attributable to factors including pent-up demand from the COVID-19 pandemic, and consumers prioritizing spend on travel and experiences over other discretionary spending. 
+
+For additional information about our business strategy for Expedia Group, see the disclosure set forth in Part I. Item 1. Business, under the caption &#8220;Market Opportunity and Business Strategy.&#8221; 
+
+Online Travel 
+
+Increased usage and familiarity with the internet have continued to drive rapid growth in online penetration of travel expenditures. Online penetration is higher in the U.S. and Western European markets with online penetration rates in some emerging markets, such as Latin America and Eastern European regions, lagging behind those regions. Emerging markets continue to present an attractive growth opportunity for our business, while also attracting many competitors to online travel. The industry is expected to remain highly competitive for the foreseeable future. In addition to the growth of online travel agencies, we have seen continued interest in the online travel industry from search engine companies such as Google, evidenced by continued product enhancements, and prioritizing its own AdWords and metasearch products such as Google Hotel Ads and Google Flights, in search results. Competitive entrants such as &#8220;metasearch&#8221; companies, including Kayak.com (owned by Booking Holdings), trivago (in which Expedia Group owns a majority interest) as well as TripAdvisor, introduced differentiated features, pricing and content compared with the legacy online travel agency companies, as well as various forms of direct or assisted booking tools. Further, airlines and lodging companies are aggressively pursuing direct online distribution of their products and services. In addition, the increasing popularity of the &#8220;sharing economy,&#8221; accelerated by online penetration, has had a direct impact on the travel and lodging industry. Businesses such as Airbnb, Vrbo and Booking.com have emerged as the leaders, bringing incremental alternative accommodation and vacation rental inventory to the market. Other competitors have arisen, including vacation rental property managers, who operate their own booking sites in addition to listing on Airbnb, Vrbo, and Booking.com, and are expected to continue to grow as a percentage of the global accommodations market. Additionally, traditional consumer ecommerce players have expanded their local offerings by adding hotel offers to their websites. Ride sharing app Uber has added transportation and experience offerings to its app via partnerships with other travel providers. Our B2B business has grown significantly but faces competition from other OTAs with B2B offerings, as well as other competitors, such as independent B2B businesses. 
+
+The online travel industry also saw the development of alternative business models and variations in the timing of payment by travelers and to suppliers, which in some cases place pressure on historical business models. In particular, the agency hotel model saw rapid adoption in Europe. Expedia Group facilitates both merchant (Expedia Collect) and agency (Hotel Collect) hotel offerings with our hotel supply partners through both agency-only contracts as well as our hybrid ETP program, which offers travelers the choice of whether to pay Expedia Group at the time of booking or pay the hotel at the time of stay. 
+
+In 2022, we began evolving our strategy from being largely transactionally focused, where we were primarily focused on acquiring customers through performance channels, to building a direct relationship with our customers by allocating more marketing spend towards our loyalty programs, paid app downloads, and brand awareness. While we maintain a large portfolio of consumer brands, we put the majority of our marketing efforts towards our three core consumer brands: Expedia, Hotels.com and Vrbo. 
+
+For more detail, see Part I, Item 1A, Risk Factors - "We rely on the value of our brands, and the costs of maintaining and enhancing our brand awareness are increasing&#8221; and &#8220;Our international operations involve additional risks and our exposure to these risks will increase as our business expands globally.&#8221; 
+
+Lodging 
+
+Lodging includes both hotel and alternative accommodations. As a percentage of our total worldwide revenue in 2023, lodging accounted for 80%. Room nights booked grew 12% in 2023, as compared to a growth of 26% in 2022 and 71% in 2021 . ADRs for rooms booked for Expedia Group increased 28% in 2021, increased 3% in 2022 and decreased 2% in 2023. Over the last couple of years, our lodging business saw a significant increase in ADRs compared to pre-pandemic levels, which were driven by broader industry trends, a mix shift to Vrbo and high ADR geographies. 
+
+As of December 31, 2023, our global lodging marketplace had over 3 million lodging properties available, including over 2 million online bookable alternative accommodations listings through Vrbo and over 940,000 hotels and alternative accommodations through our other brands. 
+
+Hotel. We generate the majority of our revenue through the facilitation of hotel reservations (stand-alone and package bookings). Our relationships and overall economics with hotel supply partners have been broadly stable in recent years. As we continue to expand the breadth and depth of our global hotel offering, in some cases we have reduced our economics in various geographies based on local market conditions. These impacts are due to specific initiatives intended to drive greater global size and scale through faster overall room night growth. Additionally, increased promotional activities such as growing loyalty programs, discounting, and couponing have contributed to declines in revenue per room night and profitability in certain cases. 
+
+Further, while the global lodging industry remains very fragmented, there has been consolidation in the hotel space among chains as well as ownership groups. In the meantime, certain hotel chains have been focusing on driving direct bookings on their own websites and mobile applications by advertising lower rates than those available on third-party websites as well as incentives such as loyalty programs, increased or exclusive product availability and complimentary benefits. 
+
+Alternative Accommodations. Over the past decade, we expanded into the alternative accommodations market. Vrbo is a leader, specializing in unique whole home inventory, primarily in North American leisure markets, and represents an attractive growth opportunity for Expedia Group. 
+
+Vrbo has transitioned from a listings-based classified advertising model to an online transactional model that optimizes for both travelers and homeowner and property manager partners, with a goal of increasing monetization and driving growth through investments in marketing as well as in product and technology. Vrbo offers hosts subscription-based listing or pay-per-booking service models. It also generates revenue from a traveler service fee for bookings, as well as insurance products. 
+
+Since our hotel and alternative accommodation supplier agreements are generally negotiated on a percentage basis, any increase or decrease in ADRs has an impact on the revenue we earn per room night. In the future, we could see macroeconomic factors influence ADR trends, including rising living costs due to inflation and higher interest rates. Other factors that could lead to moderating ADRs include growth in hotel supply and the increase in alternative accommodation inventory. 
+
+Air 
+
+Similar to the rest of travel, the airlines experienced a surge in pent-up demand when COVID-19 restrictions were lifted, however they continued to operate at reduced capacity due to staffing shortages and supply chain disruptions. In 2023, airlines focused on adding capacity back to their networks, ending the year with global air capacity nearly recovered to 2019 levels. Despite the return of capacity in 2023, U.S. domestic airfares remained roughly flat year-over-year and up approximately 10% compared to 2019 levels, according to Airlines Report Corporation ("ARC") data. Our air bookings improved in 2023 compared to 2022, but continued to lag the growth in our lodging business. 
+
+In the future, we could encounter pressure on air remuneration as air carriers combine, certain supply agreements renew, and as we continue to add airlines to ensure local coverage in new markets. 
+
+Booked air tickets increased 4% in 2023, 8% in 2022 and 43% in 2021. As a percentage of our total worldwide revenue in 2023, air accounted for 3%. 
+
+Advertising &#38; Media 
+
+Our advertising and media business is principally driven by revenue generated by trivago, a leading hotel metasearch website, and Expedia Group Media Solutions, which is responsible for generating advertising revenue on our global online travel brands. In 2023, we generated $821 million of advertising and media revenue, a 6% increase from 2022, representing 6% of our total worldwide revenue. 
+
+Since the onset of COVID-19, online travel agencies, including ourselves, have reduced marketing spend on trivago. In 2023, the company adopted its marketing strategy and launched a new logo and visual identity, part of a push to rejuvenate its 
+
+brand, demonstrate the relevance of its offerings and drive long-term growth. 
+
+Seasonality 
+
+We generally experience seasonal fluctuations in the demand for our travel services. For example, traditional leisure travel bookings are generally the highest in the first three quarters as travelers plan and book their spring, summer and winter holiday travel. The number of bookings typically decreases in the fourth quarter. Since revenue for most of our travel services, including merchant and agency hotel, is recognized as the travel takes place rather than when it is booked, revenue typically lags bookings by several weeks for our hotel business and can be several months or more for our alternative accommodations business. Historically, Vrbo has seen seasonally stronger bookings in the first quarter of the year, with the relevant stays occurring during the peak summer travel months. The seasonal revenue impact is exacerbated with respect to income by the nature of our variable cost of revenue and direct sales and marketing costs, which we typically realize in closer alignment to booking volumes, and the more stable nature of our fixed costs. As a result on a consolidated basis, revenue and income are typically the lowest in the first quarter and highest in the third quarter. 
+
+The growth in our B2B segment, international operations, advertising business or a change in our product mix, among others, may also influence the typical trend of seasonality in the future. 
+
+Critical Accounting Policies and Estimates 
+
+Critical accounting policies and estimates are those that we believe are important in the preparation of our consolidated financial statements because they require that we use judgment and estimates in applying those policies. We prepare our consolidated financial statements and accompanying notes in accordance with generally accepted accounting principles in the United States (&#8220;GAAP&#8221;). Preparation of the consolidated financial statements and accompanying notes requires that we make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities as of the date of the consolidated financial statements as well as revenue and expenses during the periods reported. We base our estimates on historical experience, where applicable, and other assumptions that we believe are reasonable under the circumstances. Actual results may differ from our estimates under different assumptions or conditions. 
+
+There are certain critical estimates that we believe require significant judgment in the preparation of our consolidated financial statements. We consider an accounting estimate to be critical if: 
+
+&#8226; It requires us to make an assumption because information was not available at the time or it included matters that were highly uncertain at the time we were making the estimate; and 
+
+&#8226; Changes in the estimate or different estimates that we could have selected may have had a material impact on our financial condition or results of operations. 
+
+For more information on each of these policies, see NOTE 2 &#8212; Significant Accounting Policies, in the notes to consolidated financial statements. We discuss information about the nature and rationale for our critical accounting estimates below. 
+
+Accounting for Certain Merchant Revenue 
+
+We accrue the cost of certain merchant revenue based on the amount we expect to be billed by suppliers. In certain instances when a supplier invoices us for less than the cost we accrued, we generally reduce our merchant accounts payable and the supplier costs within net revenue six months in arrears, net of an allowance, when we determine it is not probable that we will be required to pay the supplier, based on historical experience. Actual revenue could be greater or less than the amounts estimated due to changes in hotel billing practices or changes in traveler behavior. 
+
+Deferred Loyalty Rewards 
+
+We currently offer certain internally administered traveler loyalty programs to our travelers. In July 2023, we began to unify and expand our existing loyalty programs into one global rewards platform called One Key spanning all our main brands. One Key allows members to earn OneKeyCash, the currency of the One Key program, on eligible hotels, alternative accommodations, activities, packages car rentals, fights and cruises made on the U.S. points of sale on Expedia, Hotels.com and Vrbo. Hotels.com Rewards continues to be offered outside of the United States and offers travelers one free night at any Hotels.com partner property after that traveler stays 10 nights, subject to certain restrictions. Expedia Rewards also continues to be offered outside of the United States and enables participating travelers to earn points on all hotel, flight, package and activities made on various international Brand Expedia websites. As travelers accumulate awards towards free travel products, we defer the relative standalone selling price of earned awards, net of expected breakage, as deferred loyalty rewards within deferred merchant bookings on the consolidated balance sheet. In order to estimate the standalone selling price of the underlying services on which awards can be redeemed for all loyalty programs, we use an adjusted market assessment approach 
+
+and consider the redemption values expected from the traveler. We then estimate the number of rewards that will not be redeemed based on historical activity in our members' accounts as well as statistical modeling techniques. Revenue is recognized when we have satisfied our performance obligation relating to the awards, that is when the travel service purchased with the loyalty award is satisfied. Both the actual standalone selling price of the underlying services and ultimate redemption rates could differ materially from our estimates due to a number of factors, including fluctuations in reward value, product utilization and divergence from historical member behavior. 
+
+Recoverability of Goodwill and Indefinite and Definite-Lived Intangible Assets 
+
+Goodwill . We assess goodwill for impairment annually as of October 1, or more frequently, if events and circumstances indicate impairment may have occurred. During the third quarter of 2023, as a result of trivago&#8217;s recent strategic shift which included intensifying its brand marketing investments with an anticipated decrease in profitability, we concluded that sufficient indicators existed to require us to perform an interim impairment assessment. In the evaluation of goodwill for impairment, we typically perform a quantitative assessment and compare the fair value of the reporting unit to the carrying value and, if applicable, record an impairment charge based on the excess of the reporting unit's carrying amount over its fair value. Periodically, we may choose to perform a qualitative assessment, prior to performing the quantitative analysis, to determine whether the fair value of the goodwill is more likely than not impaired. 
+
+We generally base our measurement of fair value of reporting units on a blended analysis of the present value of future discounted cash flows and market valuation approach. The discounted cash flows model indicates the fair value of the reporting units based on the present value of the cash flows that we expect the reporting units to generate in the future. Our significant estimates in the discounted cash flows model include: our weighted average cost of capital; long-term rate of growth and profitability of our business; and working capital effects. The market valuation approach indicates the fair value of the business based on a comparison of the Company to comparable publicly traded firms in similar lines of business. Our significant estimates in the market approach model include identifying similar companies with comparable business factors such as size, growth, profitability, risk and return on investment and assessing comparable revenue and operating income multiples in estimating the fair value of the reporting units. 
+
+We believe the weighted use of discounted cash flows and market approach is generally the best method for determining the fair value of our reporting units because these are the most common valuation methodologies used within the travel and internet industries; and the blended use of both models compensates for the inherent risks associated with either model if used on a stand-alone basis. 
+
+In addition to measuring the fair value of our reporting units as described above, we consider the combined carrying and fair values of our reporting units in relation to the Company&#8217;s total fair value of equity plus debt as of the assessment date. Our equity value assumes our fully diluted market capitalization, using either the stock price on the valuation date or the average stock price over a range of dates around the valuation date, plus an estimated acquisition premium which is based on observable transactions of comparable companies. The debt value is based on the highest value expected to be paid to repurchase the debt, which can be fair value, principal or principal plus a premium depending on the terms of each debt instrument. 
+
+Indefinite-Lived Intangible Assets . We base our measurement of fair value of indefinite-lived intangible assets, which primarily consist of trade name and trademarks, using the relief-from-royalty method. This method assumes that the trade name and trademarks have value to the extent that their owner is relieved of the obligation to pay royalties for the benefits received from them. This method requires us to estimate the future revenue for the related brands, the appropriate royalty rate and the weighted average cost of capital. 
+
+In addition to the trivago goodwill impairment charge mentioned above, as a result of the assessment during the third quarter of 2023, we recognized a $15 million impairment charge related to indefinite-lived trade name. During the fourth quarter of 2023, we also recognized intangible impairment charges of $114 million related to indefinite-lived trade names within our B2C segment. 
+
+Definite-Lived Intangible Assets. We review the carrying value of long-lived assets or asset groups to be used in operations whenever events or changes in circumstances indicate that the carrying amount of the assets might not be recoverable. Factors that would necessitate an impairment assessment include a significant adverse change in the extent or manner in which an asset is used, a significant adverse change in legal factors or the business climate that could affect the value of the asset, or a significant decline in the observable market value of an asset, among others. If such facts indicate a potential impairment, we would assess the recoverability of an asset group by determining if the carrying value of the asset group exceeds the sum of the projected undiscounted cash flows expected to result from the use and eventual disposition of the assets over the remaining economic life of the primary asset in the asset group. If the recoverability test indicates that the carrying value of the asset group is not recoverable, we will estimate the fair value of the asset group using appropriate valuation 
+
+methodologies, which would typically include an estimate of discounted cash flows. Any impairment would be measured as the difference between the asset groups carrying amount and its estimated fair value. 
+
+The use of different estimates or assumptions in determining the fair value of our goodwill, indefinite-lived and definite-lived intangible assets may result in different values for these assets, which could result in an impairment or, in the period in which an impairment is recognized, could result in a materially different impairment charge. 
+
+For additional information on our goodwill and intangible asset impairments recorded in 2023, 2022 and 2021, see NOTE 3 &#8212; Fair Value Measurements in the notes to the consolidated financial statements. 
+
+Income Taxes 
+
+We record income taxes under the liability method. Deferred tax assets and liabilities reflect our estimation of the future tax consequences of temporary differences between the carrying amounts of assets and liabilities for book and tax purposes. We determine deferred income taxes based on the differences in accounting methods and timing between financial statement and income tax reporting. Accordingly, we determine the deferred tax asset or liability for each temporary difference based on the enacted tax rates expected to be in effect when we realize the underlying items of income and expense. 
+
+We consider many factors when assessing the likelihood of future realization of our deferred tax assets, including our recent earnings experience by jurisdiction, expectations of future taxable income, and the carryforward periods available to us for tax reporting purposes, as well as other relevant factors. We may establish a valuation allowance to reduce deferred tax assets to the amount we believe is more likely than not to be realized. Due to inherent complexities arising from the nature of our businesses, future changes in income tax law, tax sharing agreements or variances between our actual and anticipated operating results, we make certain judgments and estimates. Therefore, actual income taxes could materially vary from these estimates. All deferred income taxes are classified as long-term on our consolidated balance sheets. 
+
+We account for uncertain tax positions based on a two-step process of evaluating recognition and measurement criteria. The first step assesses whether the tax position is more likely than not to be sustained upon examination by the tax authority, including resolution of any appeals or litigation, based on the technical merits of the position. If the tax position meets the more likely than not criteria, the portion of the tax benefit greater than 50% likely to be realized upon settlement with the tax authority is recognized in the financial statements. The ultimate resolution of these tax positions may be greater or less than the liabilities recorded. 
+
+Other Long-Term Liabilities 
+
+Various Legal and Tax Contingencies . We record liabilities to address potential exposures related to business and tax positions we have taken that have been or could be challenged by taxing authorities. In addition, we record liabilities associated with legal proceedings and lawsuits. These liabilities are recorded when the likelihood of payment is probable and the amounts can be reasonably estimated. The determination for required liabilities is based upon analysis of each individual tax issue, or legal proceeding, taking into consideration the likelihood of adverse judgments and the range of possible loss. In addition, our analysis may be based on discussions with outside legal counsel. The ultimate resolution of these potential tax exposures and legal proceedings may be greater or less than the liabilities recorded. 
+
+Occupancy and Other Taxes . Some states and localities impose taxes (e.g. transient occupancy, accommodation tax, sales tax and/or business privilege tax) on the use or occupancy of hotel accommodations or other traveler services. Generally, hotels collect taxes based on the rate paid to the hotel and remit these taxes to the various tax authorities. When a customer books a room through one of our travel services, we collect a tax recovery charge from the customer which we pay to the hotel. We calculate the tax recovery charge by applying the applicable tax rate supplied to us by the hotels to the amount that the hotel has agreed to receive for the rental of the room by the consumer. In most jurisdictions, we do not collect or remit taxes, nor do we pay taxes to the hotel operator, on the portion of the customer payment we retain. Some jurisdictions have questioned our practice in this regard. While the applicable tax provisions vary among the jurisdictions, we generally believe that we are not required to pay such taxes. A limited number of taxing jurisdictions have made similar claims against certain of our companies for tax amounts due on the rental amounts charged by owners of alternative accommodations properties or for taxes on our services. We are an intermediary between a traveler and a party renting an alternative accommodations property and we believe are similarly not liable for such taxes. We are engaged in discussions with tax authorities in various jurisdictions to resolve these issues. Some tax authorities have brought lawsuits or have levied assessments asserting that we are required to collect and remit tax. The ultimate resolution in all jurisdictions cannot be determined at this time. Certain jurisdictions may require us to pay tax assessments, including occupancy and other transactional tax assessments, prior to contesting any such assessments. 
+
+We have established a reserve for the potential settlement of issues related to hotel occupancy and other tax litigation for prior and current periods, consistent with applicable accounting principles and in light of all current facts and circumstances. A 
+
+variety of factors could affect the amount of the liability (both past and future), which factors include, but are not limited to, the number of, and amount of revenue represented by, jurisdictions that ultimately assert a claim and prevail in assessing such additional tax or negotiate a settlement and changes in relevant statutes. 
+
+We are subject to income taxes in the United States and foreign jurisdictions and, due to the complex nature of tax legislation and frequent changes with such associated legislation, it is not feasible to analyze the statutes, regulations and judicial and administrative rulings in every jurisdiction. Rather, we have obtained the advice of international, state and local tax experts with respect to tax laws of certain countries, states and local jurisdictions that represent a large portion of our lodging revenue. Many of the statutes and regulations that impose these taxes were established before the emergence of the internet and ecommerce. Certain jurisdictions have enacted, and others may enact, legislation regarding the imposition of taxes on businesses that facilitate the booking of hotel or alternative accommodations. We continue to work with the relevant tax authorities and legislators to clarify our obligations under new and emerging laws and regulations. We will continue to monitor the issue closely and provide additional disclosure, as well as adjust the level of reserves, as developments warrant. Additionally, certain of our businesses are involved in tax related litigation, which is discussed in Part I, Item 3, Legal Proceedings. 
+
+New Accounting Pronouncements 
+
+For a discussion of new accounting pronouncements, see NOTE 2 &#8212; Significant Accounting Policies in the notes to consolidated financial statements. 
+
+Occupancy and Other Taxes 
+
+We are currently involved in seven lawsuits brought by or against states, cities and counties over issues involving the payment of hotel occupancy and other taxes. We continue to defend these lawsuits vigorously. With respect to the principal claims in these matters, we believe that the statutes and/or ordinances at issue do not apply to us or the services we provide, namely the facilitation of travel planning and reservations, and, therefore, that we do not owe the taxes that are claimed to be owed. We believe that the statutes and ordinances at issue generally impose occupancy and other taxes on entities that own, operate or control hotels (or similar businesses) or furnish or provide hotel rooms or similar accommodations. 
+
+For additional information and other recent developments on these and other legal proceedings, see Part I, Item 3, Legal Proceedings. 
+
+We have established a reserve for the potential settlement of issues related to hotel occupancy and other tax litigation, consistent with applicable accounting principles and in light of all current facts and circumstances, in the amount of $46 million as of December 31, 2023 and $44 million as of December 31, 2022. 
+
+Certain jurisdictions, including without limitation the states of New York, New Jersey, North Carolina, Minnesota, Oregon, Rhode Island, Maryland, Pennsylvania, Hawaii, Iowa, Massachusetts, Arizona, Wisconsin, Idaho, Arkansas, Indiana, Maine, Nebraska, Vermont, Mississippi, Virginia, the city of New York, and the District of Columbia, have enacted legislation seeking to tax online travel company services as part of sales or other taxes for hotel and/or other accommodations and/or car rental. In addition, in certain jurisdictions, we have entered into voluntary collection agreements pursuant to which we have agreed to voluntarily collect and remit taxes to state and/or local taxing jurisdictions. We are currently remitting taxes to a number of jurisdictions, including without limitation the states of New York, New Jersey, South Carolina, North Carolina, Minnesota, Georgia, Wyoming, West Virginia, Oregon, Rhode Island, Montana, Maryland, Kentucky, Maine, Pennsylvania, Hawaii, Iowa, Massachusetts, Arizona, Wisconsin, Idaho, Arkansas, Indiana, Nebraska, Vermont, Colorado, Mississippi, Virginia, the city of New York and the District of Columbia, as well as certain other jurisdictions. 
+
+Pay-to-Play 
+
+Certain jurisdictions may assert that we are required to pay any assessed taxes prior to being allowed to contest or litigate the applicability of the ordinances. This prepayment of contested taxes is referred to as &#8220;pay-to-play.&#8221; Payment of these amounts is not an admission that we believe we are subject to such taxes and, even when such payments are made, we continue to defend our position vigorously. If we prevail in the litigation, for which a pay-to-play payment was made, the jurisdiction collecting the payment will be required to repay such amounts and also may be required to pay interest. However, any significant pay-to-play payment or litigation loss could negatively impact our liquidity. 
+
+Other Jurisdictions. We are also in various stages of inquiry or audit with various tax authorities, some of which, including the City of Los Angeles regarding hotel occupancy taxes, may impose a pay-to-play requirement to challenge an adverse inquiry or audit result in court. 
+
+Segments 
+
+We have the following reportable segments: B2C (formerly referred to as Retail), B2B, and trivago. Our B2C segment provides a full range of travel and advertising services to our worldwide customers through a variety of consumer brands including: Expedia.com, Hotels.com, Vrbo, Orbitz, Travelocity, Wotif Group, ebookers, CheapTickets, Hotwire.com and CarRentals.com. Our B2B segment fuels a wide range of travel and non-travel companies including airlines, offline travel agents, online retailers, corporate travel management and financial institutions, who leverage our leading travel technology and tap into our diverse supply to augment their offerings and market Expedia Group rates and availabilities to their travelers. In addition, through its sale in November 2021, our B2B segment included Egencia, a full-service travel management company that provided travel services to businesses and their corporate customers. Our trivago segment generates advertising revenue primarily from sending referrals to online travel companies and travel service providers from its hotel metasearch websites. 
+
+Operating Metrics 
+
+Our operating results are affected by certain metrics, such as gross bookings and revenue margin, which we believe are necessary for understanding and evaluating us. Gross bookings generally represent the total retail value of transactions booked for agency and merchant transactions, recorded at the time of booking reflecting the total price due for travel by travelers, including taxes, fees and other charges, and are reduced for cancellations and refunds. Revenue margin is defined as revenue as a percentage of gross bookings. 
+
+Gross Bookings and Revenue Margin ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Gross Bookings Gross bookings $ 104,079 $ 95,049 $ 72,425 10 % 31 % 
+
+Revenue margin (1) 
+
+12.3 % 12.3 % 11.9 % ##TABLE_END
+
+___________________________________ 
+
+(1) trivago, which is comprised of a hotel metasearch business that differs from our transaction-based websites, does not have associated gross bookings or revenue margin. However, third-party revenue from trivago is included in revenue used to calculate total revenue margin. 
+
+Gross bookings increased 10% in 2023 compared to 2022 as gross bookings for lodging improved due to continued strength of travel demand. Booked room nights for our lodging business increased 12% in 2023 compared to 2022. 
+
+Revenue margin remained relatively consistent in 2023 compared to 2022. 
+
+Results of Operations 
+
+Revenue ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Revenue by Segment B2C $ 9,113 $ 8,741 $ 6,821 4 % 28 % B2B 3,388 2,546 1,460 33 % 74 % trivago (Third-party revenue) 338 380 317 (11) % 20 % Total revenue $ 12,839 $ 11,667 $ 8,598 10 % 36 % ##TABLE_END
+
+Revenue increased 10% in 2023 compared to 2022, on strong growth in our B2B segment resulting from increased lodging revenue. 
+
+##TABLE_START Year Ended December 31, % Change 2023 2022 2021 2023 vs 2022 2022 vs 2021 ($ in millions) &#160; &#160; Revenue by Service Type Lodging $ 10,264 $ 8,905 $ 6,449 15 % 38 % Air 410 362 254 13 % 43 % 
+
+Advertising and media (1) 
+
+821 777 603 6 % 29 % Other 1,344 1,623 1,292 (17) % 25 % Total revenue $ 12,839 $ 11,667 $ 8,598 10 % 36 % ##TABLE_END
+
+___________________________________ 
+
+(1) Includes third-party revenue from trivago as well as our transaction-based websites. 
+
+Lodging revenue increased 15% in 2023 primarily driven by an increase in room nights stayed mostly in our hotel business. 
+
+Air revenue increased 13% in 2023 primarily driven by an increase in revenue per air ticket as well as an increase in air tickets sold. 
+
+Advertising and media revenue increased 6% in 2023 due to an increase at Expedia Group Media Solutions, partially offset by a decline in trivago revenue. All other revenue, which includes car rental, insurance, cruise and fee revenue related to our corporate travel business (through Egencia's sale in November 2021), decreased 17% in 2023 from a decrease in travel insurance with lower attach rates as consumers&#8217; appetite for insurance normalizes and lower car rental revenue driven by lower rates as a result of increased industry supply. 
+
+In addition to the above segment and product revenue discussion, our revenue by business model is as follows: ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Revenue by Business Model Merchant $ 8,818 $ 7,762 $ 5,537 14 % 40 % Agency 3,075 2,994 2,307 3 % 30 % Advertising, media and other 946 911 754 4 % 21 % Total revenue $ 12,839 $ 11,667 $ 8,598 10 % 36 % ##TABLE_END
+
+The increase in merchant revenue in 2023 was primarily due to an increase in merchant hotel revenue. 
+
+The increase in agency revenue in 2023 was primarily due to an increase in agency hotel and air revenue, partially offset by miscellaneous decreases, including a decline in agency car revenue. 
+
+Advertising, media and other increased 4% in 2023 compared to 2022 primarily due to an increase in Expedia Media Solutions advertising revenue. 
+
+Cost of Revenue ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Direct costs $ 1,233 $ 1,353 $ 1,118 (9) % 21 % Personnel and overhead 340 304 404 12 % (25) % Total cost of revenue 
+
+$ 1,573 $ 1,657 $ 1,522 (5) % 9 % % of revenue 12.3 % 14.2 % 17.7 % ##TABLE_END
+
+Cost of revenue primarily consists of direct costs to support our customer operations, including our customer support and telesales as well as fees to air ticket fulfillment vendors; credit card processing, including merchant fees, fraud and chargebacks; and other costs, primarily including data center and cloud costs to support our websites, supplier operations, destination supply, certain transactional level taxes as well as related personnel and overhead costs, including stock-based compensation. 
+
+Cost of revenue decreased $84 million during 2023 compared to 2022, primarily due to lower costs associated with our direct customer service costs and other operations, partially offset by higher cloud costs and customer service personnel costs primarily as a result of increased transaction volumes. As a percentage of revenue, cost of revenue decreased in 2023 on leverage driven by ongoing efficiencies across our customer support and other operations. 
+
+Selling and Marketing - Direct and Indirect ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Selling and marketing - direct $ 6,107 $ 5,428 $ 3,499 13 % 55 % % of revenue 47.6 % 46.5 % 40.7 % Selling and marketing - indirect 756 672 722 12 % (7) % % of revenue 5.9 % 5.8 % 8.4 % ##TABLE_END
+
+Selling and marketing - direct costs primarily include traffic generation costs from search engines and internet portals, television and print spending, private label and affiliate program commissions, public relations and other costs. Selling and marketing - indirect costs include personnel and related overhead in our various brands and global supply organization as well as stock-based compensation costs. 
+
+Selling and marketing - direct increased $679 million during 2023 compared to 2022 primarily driven by an increase in B2B partner commissions to support strong growth. Selling and marketing - indirect increased compared to the prior year due to compensation increases as well as higher headcount. 
+
+Technology and Content ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Personnel and overhead $ 999 $ 874 $ 785 14 % 11 % Other 359 307 289 17 % 6 % Total technology and content 
+
+$ 1,358 $ 1,181 $ 1,074 15 % 10 % % of revenue 10.6 % 10.1 % 12.5 % ##TABLE_END
+
+Technology and content expense includes product development and content expense, as well as information technology costs to support our infrastructure, back-office applications and overall monitoring and security of our networks, and is principally comprised of personnel and overhead, including stock-based compensation, as well as other costs including cloud expense and licensing and maintenance expense. 
+
+Technology and content expense increased $177 million for 2023 compared to 2022 primarily due to higher personnel costs from increased headcount to support our strategic initiatives, as well as higher stock-based compensation of $27 million year over year. In addition, licensing and maintenance costs increased $28 million year over year. 
+
+General and Administrative ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Personnel and overhead $ 618 $ 591 $ 562 5 % 5 % Professional fees and other 153 157 143 (2) % 9 % Total general and administrative 
+
+$ 771 $ 748 $ 705 3 % 6 % % of revenue 6.0 % 6.4 % 8.2 % ##TABLE_END
+
+General and administrative expense consists primarily of personnel-related costs, including our executive leadership, finance, legal and human resource functions and related stock-based compensation, as well as fees for external professional services. 
+
+General and administrative expense increased slightly in 2023 compared to 2022 as higher average headcount as well as compensation increases were partially offset by lower professional fees. 
+
+Depreciation and Amortization ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Depreciation $ 748 $ 704 $ 715 6 % (2) % Amortization of intangible assets 59 88 99 (33) % (11) % Total depreciation and amortization $ 807 $ 792 $ 814 2 % (3) % ##TABLE_END
+
+Depreciation increased $44 million in 2023 compared to 2022. Amortization of intangible assets decreased $29 million in 2023 compared to 2022 primarily due to the completion of amortization in the fourth quarter of 2022 related to certain intangible assets. 
+
+Impairment of Goodwill, Intangible and Other Long-term Assets 
+
+During 2023, we recognized a goodwill impairment charge of $297 million related to our trivago segment, as well as intangible impairment charges of $129 million related to indefinite-lived trade names within our B2C and trivago segments. During 2022, we recognized intangible impairment charges of $81 million related to an indefinite-lived trade name within our trivago segment. During 2021, we recognized a goodwill impairment charge of $14 million and intangible and other long-term asset impairment charges of $6 million related to our B2B segment. See NOTE 3 &#8212; Fair Value Measurements in the notes to the consolidated financial statements for further information. 
+
+Legal Reserves, Occupancy Tax and Other ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Legal reserves, occupancy tax and other $ 8 $ 23 $ 1 (67) % N/A ##TABLE_END
+
+Legal reserves, occupancy tax and other primarily consists of increases in our reserves for court decisions and the potential and final settlement of issues related to hotel occupancy and other taxes, expenses recognized related to monies paid in advance of occupancy and other tax proceedings (&#8220;pay-to-play&#8221;) as well as certain other legal reserves. 
+
+Legal reserves, occupancy tax and other for the year ended December 31, 2023 primarily included changes to our reserve related to other taxes. Legal reserves, occupancy tax and other for the year ended December 31, 2022 primarily included charges related to certain other legal reserves for trivago. 
+
+Restructuring and Related Reorganization Charges 
+
+In 2020, we committed to restructuring actions intended to simplify our businesses and improve operational efficiencies, which resulted in headcount reductions and office consolidations. As a result, we recognized $55 million in restructuring and related reorganization charges during 2021. We did not recognize any such costs in 2023 and 2022, but we continue to actively evaluate additional cost reduction efforts and should we make decisions in future periods to take further actions we may incur additional reorganization charges. 
+
+Operating Income ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Operating income $ 1,033 $ 1,085 $ 186 (5) % 484 % % of revenue 8.0 % 9.3 % 2.2 % ##TABLE_END
+
+In 2023, the decrease in operating income was primarily due to the impairment charges discussed above, partially offset by the growth in revenue in excess of other operating costs. 
+
+Adjusted EBITDA by Segment ##TABLE_START Year ended December 31, % Change 2023 2022 2021 2023 vs 2022 2022 vs 2021 ($ in millions) B2C $ 2,325 $ 2,124 $ 1,782 10 % 19 % 
+
+B2B (1) 
+
+798 599 110 33 % 445 % trivago 56 113 39 (50) % 191 % Unallocated overhead costs (Corporate) (499) (487) (454) 3 % 7 % 
+
+Total Adjusted EBITDA (2) 
+
+$ 2,680 $ 2,349 $ 1,477 14 % 59 % ##TABLE_END
+
+______________________________________ 
+
+(1) Includes operating results of Egencia through its sale in November 2021. 
+
+(2) Adjusted EBITDA is a non-GAAP measure. See "Definition and Reconciliation of Adjusted EBITDA" below for more information. 
+
+Adjusted EBITDA is our primary segment operating metric. See NOTE 18 &#8212; Segment Information in the notes to the consolidated financial statements for additional information on intersegment transactions, unallocated overhead costs and for a reconciliation of Adjusted EBITDA by segment to net income (loss) attributable to Expedia Group, Inc. for the periods presented above. 
+
+Our B2C segment Adjusted EBITDA increased in 2023 compared to 2022 as a result of marketing efficiencies as well as revenue growth. Our B2B segment experienced an improvement in Adjusted EBITDA in 2023 compared to 2022 primarily as a result of strong revenue growth. Our trivago segment Adjusted EBITDA decreased in 2023 compared to 2022 as a result of revenue declines. 
+
+Interest Income and Expense ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Interest income 207 $ 60 $ 9 244 % 543 % Interest expense (245) (277) (351) (12) % (21) % Gain (loss) on debt extinguishment, net &#8212; 49 (280) N/A N/A ##TABLE_END
+
+Interest income increased in 2023 compared to 2022 as a result of higher rates of return. Interest expense decreased in 2023 compared to 2022, as a result of lower average senior notes outstanding in the current year. 
+
+During 2022, we settled a tender offer to purchase $500 million in aggregate principal of our 2.95% senior unsecured notes, which resulted in the recognition of a net gain on debt extinguishment of $73 million. In addition, as a result of the early redemption of the 3.6% and 4.5% senior unsecured notes in 2022, we recognized a loss on debt extinguishment of $24 million, which primarily included the payment of early payment premiums as well as the write-off of unamortized discount and debt issuance costs. 
+
+Gain on Sale of Business, Net 
+
+During 2023, we recognized $25 million in gains related to sales of businesses in prior years. In 2022, we recognized an immaterial gain of $6 million primarily related to the sale of Egencia in the prior year. 
+
+Other, Net 
+
+Other, net is comprised of the following: ##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 &#160; (In millions) Foreign exchange rate losses, net $ (85) $ (40) $ (48) Gains (losses) on minority equity investments, net 16 (345) (29) TripAdvisor tax indemnification adjustment 67 &#8212; &#8212; Other &#8212; &#8212; 19 Total other, net $ (2) $ (385) $ (58) ##TABLE_END
+
+For further information on our gains (losses) on minority equity investments, net, see NOTE 3 &#8212; Fair Value Measurements in the notes to the consolidated financial statements. 
+
+During 2023, we recognized a $67 million gain, which together with amounts recorded in a prior period, represented the estimate of an indemnification reimbursement due to Expedia Group from TripAdvisor. See &#8220;Provision for Income Taxes&#8221; below for a discussion of a corresponding charge to income tax expense in the current year and NOTE 10 &#8212; Income Taxes in the notes to the consolidated financial statements for further information. 
+
+Provision for Income Taxes ##TABLE_START &#160; Year ended December 31, % Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; ($ in millions) &#160; &#160; Provision for income taxes $ 330 $ 195 $ (53) 69 % N/A Effective tax rate 32.4 % 36.2 % 139.9 % ##TABLE_END
+
+Our effective tax rate for 2023 was higher than the 21% U.S. federal statutory income tax rate due to the non-deductible goodwill impairment and TripAdvisor audit assessment, partially offset by research and experimentation credits. Our effective tax rate for 2022 was higher than the 21% U.S. federal statutory income tax rate due to valuation allowances on minority investments and nondeductible compensation, partially offset by research and experimentation credits. For additional information, see NOTE 10 &#8212; Income Taxes in the notes to the consolidated financial statements. 
+
+We are subject to taxation in the United States and foreign jurisdictions. Our income tax filings are regularly examined by federal, state, and foreign tax authorities. During the fourth quarter of 2019, the Internal Revenue Service (&#8220;IRS&#8221;) issued final adjustments related to transfer pricing with our foreign subsidiaries for our 2011 to 2013 tax years. The adjustments would increase our U.S. taxable income by $696 million, which would result in federal tax of approximately $244 million, subject to interest. We do not agree with the position of the IRS. We have formally filed a protest for our 2011 to 2013 tax years and the case is currently in Appeals. During the third quarter of 2023, the IRS issued final adjustments related to transfer pricing with our foreign subsidiaries for our 2014 to 2016 tax years. The adjustments would increase our U.S. taxable income by $1.232 billion, which would result in federal income tax of approximately $431 million, subject to interest. We do not agree with the position of the IRS and intend to formally file a protest. We are also under examination by the IRS for our 2017 to 2020 tax years. We believe it is reasonably possible that the audit of the 2011 to 2013 tax years will conclude within the next 12 months. 
+
+In December 2021, the OECD released model rules introducing a 15% global minimum tax rate for large multinational corporations (&#8220;Pillar Two&#8221;). Certain countries in which we operate have enacted legislation consistent with the OECD model rules effective beginning in 2024. The Company is monitoring legislative developments and continuing to evaluate the potential impact of Pillar Two on our consolidated financial statements. 
+
+For more detail on our tax risk factors, see Part I, Item 1A, Risk Factors - &#8220;A failure to comply with current laws, rules and regulations or changes to such laws, rules and regulations and other legal uncertainties may adversely affect our business, financial performance, results of operations or business growth,&#8221; &#8220;Application of existing tax laws, rules or regulations are subject to interpretation by taxing authorities,&#8221; and &#8220;We could be subject to changes in tax rates, the adoption of new U.S. or international tax legislation, or exposure to additional tax liabilities.&#8221; 
+
+Definition and Reconciliation of Adjusted EBITDA 
+
+We report Adjusted EBITDA as a supplemental measure to U.S. generally accepted accounting principles ("GAAP"). Adjusted EBITDA is among the primary metrics by which management evaluates the performance of the business and on 
+
+which internal budgets are based. Management believes that investors should have access to the same set of tools that management uses to analyze our results. This non-GAAP measure should be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP. Adjusted EBITDA has certain limitations in that it does not take into account the impact of certain expenses to our consolidated statements of operations. We endeavor to compensate for the limitation of the non-GAAP measure presented by also providing the most directly comparable GAAP measure and a description of the reconciling items and adjustments to derive the non-GAAP measure. Adjusted EBITDA also excludes certain items related to transactional tax matters, which may ultimately be settled in cash, and we urge investors to review the detailed disclosure regarding these matters included above, in the Legal Proceedings section, as well as the notes to the financial statements. The non-GAAP financial measure used by the Company may be calculated differently from, and therefore may not be comparable to, similarly titled measures used by other companies. 
+
+Adjusted EBITDA is defined as net income (loss) attributable to Expedia Group, Inc. adjusted for (1) net income (loss) attributable to non-controlling interests; (2) provision for income taxes; (3) total other expenses, net; (4) stock-based compensation expense, including compensation expense related to certain subsidiary equity plans; (5) acquisition-related impacts, including (i) amortization of intangible assets and goodwill and intangible asset impairment, (ii) gains (losses) recognized on changes in the value of contingent consideration arrangements, if any, and (iii) upfront consideration paid to settle employee compensation plans of the acquiree, if any; (6) certain other items, including restructuring; (7) items included in legal reserves, occupancy tax and other; (8) that portion of gains (losses) on revenue hedging activities that are included in other, net that relate to revenue recognized in the period; and (9) depreciation. 
+
+The above items are excluded from our Adjusted EBITDA measure because these items are noncash in nature, or because the amount and timing of these items is unpredictable, not driven by core operating results and renders comparisons with prior periods and competitors less meaningful. We believe Adjusted EBITDA is a useful measure for analysts and investors to evaluate our future on-going performance as this measure allows a more meaningful comparison of our performance and projected cash earnings with our historical results from prior periods and to the results of our competitors. Moreover, our management uses this measure internally to evaluate the performance of our business as a whole and our individual business segments. In addition, we believe that by excluding certain items, such as stock-based compensation and acquisition-related impacts, Adjusted EBITDA corresponds more closely to the cash operating income generated from our business and allows investors to gain an understanding of the factors and trends affecting the ongoing cash earnings capabilities of our business, from which capital investments are made and debt is serviced. 
+
+The reconciliation of net income attributable to Expedia Group, Inc. to Adjusted EBITDA is as follows: ##TABLE_START Year ended December 31, 2023 2022 2021 (In millions) Net income attributable to Expedia Group, Inc. $ 797 $ 352 $ 12 Net income (loss) attributable to non-controlling interests (109) (9) 3 Provision for income taxes 330 195 (53) Total other expense, net 15 547 224 Operating income 1,033 1,085 186 Gain (loss) on revenue hedges related to revenue recognized (7) (6) (17) Restructuring and related reorganization charges &#8212; &#8212; 55 Legal reserves, occupancy tax and other 8 23 1 Stock-based compensation 413 374 418 Depreciation and amortization 807 792 814 Impairment of goodwill 297 &#8212; 14 Intangible and other long-term asset impairment 129 81 6 Adjusted EBITDA $ 2,680 $ 2,349 $ 1,477 ##TABLE_END
+
+Financial Position, Liquidity and Capital Resources 
+
+Our principal sources of liquidity are typically cash flows generated from operations, cash available under our credit facility as well as our cash and cash equivalents and short-term investment balances, which were $4.3 billion and $4.1 billion at December 31, 2023 and 2022. Our revolving credit facility with aggregate commitments of $2.5 billion was essentially untapped at December 31, 2023. 
+
+As of December 31, 2023, the total cash and cash equivalents and short-term investments held outside the United States was $665 million ($524 million in wholly-owned foreign subsidiaries and $141 million in majority-owned subsidiaries). Most of our foreign undistributed earnings have already been subject to U.S. federal income tax. We do not assert indefinite reinvestment on the undistributed earnings of our foreign subsidiaries. 
+
+Our credit ratings are periodically reviewed by rating agencies. As of December 31, 2023, Moody&#8217;s rating was Baa3 with an outlook of &#8220;positive,&#8221; S&#38;P&#8217;s rating was BBB with an outlook of &#8220;stable&#8221; and Fitch&#8217;s rating was BBB- with an outlook of &#8220;positive.&#8221; Changes in our operating results, cash flows, financial position, capital structure, financial policy or capital allocations to share repurchase, dividends, investments and acquisitions could impact the ratings assigned by the various rating agencies. Should our credit ratings be adjusted downward, we may incur higher costs to borrow and/or limited access to capital markets and interest rates on our 6.25% senior notes, 4.625% senior notes as well as our 2.95% senior notes will increase, which could have a material impact on our financial condition and results of operations. 
+
+As of December 31, 2023, we were in compliance with the covenants and conditions in our revolving credit facility and outstanding debt as detailed in NOTE 7 &#8212; Debt in the notes to the consolidated financial statements. 
+
+Under the merchant model, we receive cash from travelers at the time of booking and we record these amounts on our consolidated balance sheets as deferred merchant bookings. We pay our airline suppliers related to these merchant model bookings generally within a few weeks after completing the transaction. For most other merchant bookings, which is primarily our merchant lodging business, we generally pay after the travelers&#8217; use and, in some cases, subsequent billing from the hotel suppliers. Therefore, generally we receive cash from the traveler prior to paying our supplier, and this operating cycle represents a working capital source of cash to us. Typically, the seasonal fluctuations in our merchant hotel bookings have affected the timing of our annual cash flows. Generally, during the first half of the year, hotel bookings have traditionally exceeded stays, resulting in much higher cash flow related to working capital. During the second half of the year, this pattern typically reverses and cash flows are typically negative. 
+
+Our cash flows are as follows: ##TABLE_START &#160; Year ended December 31, $ Change &#160; 2023 2022 2021 2023 vs 2022 2022 vs 2021 &#160; (In millions) Cash provided by (used in): Operating activities $ 2,690 $ 3,440 $ 3,748 $ (750) $ (308) Investing activities (800) (580) (931) (220) 351 Financing activities (2,096) (2,624) (973) 528 (1,651) Effect of foreign exchange rate changes on cash and cash equivalents 16 (190) (177) 206 (13) ##TABLE_END
+
+In 2023, net cash provided by operating activities decreased by $750 million primarily due to decreased benefits from working capital changes driven mostly by a change in deferred merchant bookings. In the prior year as the business emerged from the pandemic, we saw meaningful year-over-year increases in our deferred merchant bookings, which has since normalized in the current year. This decrease was partially offset by higher operating income after adjusting for impacts on depreciation, amortization and goodwill and intangible asset impairments as well as higher interest income received and lower interest expense paid in the current year. 
+
+In 2023, we had net cash used in investing activities of $800 million compared to $580 million in the prior year. The change was primarily due to higher capital expenditures in the current year as well as higher net sales and maturities of investments in the prior year, partially offset by higher uses of cash for the settlement of currency forward contract losses in the prior year period. 
+
+Cash used in financing activities in 2023 primarily included $2.1 billion of cash paid to acquire shares, including the repurchased shares under the authorizations discussed below and for treasury stock activity related to the vesting of equity instruments, partially offset by $101 million of proceeds from the exercise of options and employee stock purchase plans. Cash used in financing activities in 2022 primarily included payments of $2.2 billion related to the extinguishment of our 2.5%, 3.6%, 4.5% senior notes and the tender offer for a portion of our 2.95% senior notes as well as $607 million of cash paid to acquire shares, including the repurchased shares under prior authorizations and for treasury stock activity related to the vesting 
+
+of equity instruments. These uses of cash were partially offset by $131 million of proceeds from the exercise of options and employee stock purchase plans. 
+
+In 2018 and 2019, the Board of Directors and the Executive Committee of the Board, pursuant to a delegation of authority from the Board, authorized a program to repurchase up to 15 million shares and 20 million shares of our common sto ck (the &#8220;2018 Share Repurchase Program&#8221; and the &#8220;2019 Share Repurchase Program&#8221;). In October 2023, the Executive Committee of the Board of Directors, pursuant to a delegation of authority from the Board, authorized an additional program to repurchase up to $5 billion of our common stock (&#8220;2023 Share Repurchase Program&#8221;). The 2018 and 2019 Share Repurchase Programs have been completed. Our 2023 Share Repurchase Program does not have fixed expiration dates and does not obligate the Company to acquire any specific number of shares. Under the program, shares may be repurchased in the open market or in privately negotiated transactions. The timing, manner, price and amount of any repurchases will be subject to the discretion of the Company and depend on a variety of factors, including the market price of Expedia Group&#8217;s common stock, general market and economic conditions, regulatory requirements and other business considerations. Shares repurchased under the authorized programs were as follows: ##TABLE_START &#160; Year ended December 31, &#160; 2023 2022 2021 Number of shares repurchased 19.1 million 5.2 million &#8212; Average price per share $ 106.07 $ 96.09 $ &#8212; 
+
+Total cost of repurchases (in millions) (1) 
+
+$ 2,031 $ 500 $ &#8212; ##TABLE_END
+
+&#160; ______________________________________ 
+
+(1) Amount excludes transaction costs and excise tax due under the Inflation Reduction Act of 2022. 
+
+As of December 31, 2023, $4.8 billion remain authorized for repurchase under the 2023 Share Repurchase Program. 
+
+During 2023 and 2022, we didn't pay any common stock dividends. At this time, we do not expect to make quarterly dividend payments on our common stock. Future declarations of dividends are subject to final determination by our Board of Directors. 
+
+Foreign exchange rate changes resulted in an increase of our cash and restricted cash balances denominated in foreign currency in 2023 of $16 million reflecting a net appreciation in foreign currencies relative to the U.S. dollar during the year. Foreign exchange rate changes resulted in a decrease of our cash and restricted cash balances denominated in foreign currency in 2022 of $190 million reflecting a net depreciation in foreign currencies relative to the U.S. dollar during the year. 
+
+Contractual Obligations and Commercial Commitments. Our material cash requirements as of December 31, 2023 include the following contractual obligations and commercial commitments arising in the normal course of business: 
+
+&#8226; Principal payments related to our debt that is included in our consolidated balance sheet and the related periodic interest payments. The Company had Senior Notes and Convertible Notes, as described in NOTE 7 &#8212; Debt in the notes to our consolidated financial statements, with varying maturities and an aggregate principal amount of $6.3 billion, none of which is payable within 12 months. Based on current stated fixed rates, future interest payments associated with the Senior Notes total approximately $876 million, with approximately $231 million payable within 12 months; 
+
+&#8226; Our operating leases had fixed lease payment obligations, including imputed interest, of $436 million, with $77 million payable within 12 months; and 
+
+&#8226; Purchase obligations representing the minimum obligations we have under agreements with certain of our vendors and marketing partners. These minimum obligations are less than our projected use for those periods, and payments may be more than the minimum obligations based on actual use. The Company had purchase obligations of $1.0 billion, with $426 million payable within 12 months. 
+
+In addition, we had $311 million of net unrecognized tax benefits recorded on our balance sheet as of December 31, 2023, for which we cannot make a reasonably reliable estimate of the amount and period of payment. 
+
+See NOTE 15 &#8212; Commitments and Contingencies in the notes to the consolidated financial statements for further information related to our purchase obligations as well as amounts outstanding as of December 31, 2023 related to letters of credit and guarantees. Other than the items described above, we do not have any off-balance sheet arrangements as of December 31, 2023. 
+
+In our opinion, our liquidity position provides sufficient capital resources to meet our foreseeable cash needs. There can be no assurance, however, that the cost or availability of future borrowings, including refinancings, if any, will be available on terms acceptable to us. 
+
+Certain Relationships and Related Party Transactions 
+
+For a discussion of certain relationships and related party transactions, see NOTE 17 &#8212; Related Party Transactions in the notes to the consolidated financial statements. 
+
+Summarized Financial Information for Guarantors and the Issuer of Guaranteed Securities 
+
+Summarized financial information of Expedia Group, Inc. (the &#8220;Parent&#8221;) and our subsidiaries that are guarantors of our debt facility and instruments (the &#8220;Guarantor Subsidiaries&#8221;) is shown below on a combined basis as the &#8220;Obligor Group.&#8221; The debt facility and instruments are guaranteed by certain of our wholly-owned domestic subsidiaries and rank equally in right of payment with all of our existing and future unsecured and unsubordinated obligations. The guarantees are full, unconditional, joint and several with the exception of certain customary automatic subsidiary release provisions. In this summarized financial information of the Obligor Group, all intercompany balances and transactions between the Parent and Guarantor Subsidiaries have been eliminated and all information excludes subsidiaries that are not issuers or guarantors of our debt facility and instruments, including earnings from and investments in these entities. ##TABLE_START December 31, 2023 &#160; (In millions) Combined Balance Sheets Information: Current Assets $ 7,408 Non-Current Assets 10,399 Current Liabilities (1) 
+
+11,949 Non-Current Liabilities 6,792 Year Ended December 31, 2023 Combined Statements of Operations Information: Revenue $ 10,122 Operating income (2) 
+
+714 Net income 566 Net income attributable to Obligors 675 ##TABLE_END
+
+(1) Current liabilities include intercompany payables with non-guarantors of $804 million as of December 31, 2023. 
+
+(2) Operating income includes intercompany income with non-guarantors of $152 million for the year ended December 31, 2023. 
+
