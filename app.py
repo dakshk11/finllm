@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit import session_state as ss
 import yfinance as yf
 from matplotlib import pyplot as plt
 from pandas.tseries.offsets import DateOffset
@@ -9,6 +10,7 @@ import json
 import numpy as np
 import os
 from utils import get_earnings_transcript, Raptor
+import streamlit_pdf_viewer as stpdf
 from langchain_community.embeddings.sentence_transformer import (
     SentenceTransformerEmbeddings,
 )
@@ -464,3 +466,239 @@ if ticker_symbol:
     
     if selected_option == options[1]:
         st.markdown("## **PDF Report**")
+        from reportlab.lib import colors
+        from reportlab.lib import pagesizes
+        from reportlab.platypus import SimpleDocTemplate, Frame, Paragraph, Image, PageTemplate, FrameBreak, Spacer, Table, TableStyle, NextPageTemplate, PageBreak
+        from reportlab.lib.units import inch
+        from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+        from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
+
+
+# 2. 创建PDF并插入图像
+# 页面设置
+        page_width, page_height = pagesizes.A4
+        left_column_width = page_width * 2/3
+        right_column_width = page_width - left_column_width
+        margin = 4
+
+# 创建PDF文档路径
+        pdf_path = os.path.join(ra.project_dir, f"{ticker_symbol}_report.pdf")
+        doc = SimpleDocTemplate(pdf_path, pagesize=pagesizes.A4)
+
+# 定义两个栏位的Frame
+        frame_left = Frame(margin, margin, left_column_width-margin*2, page_height-margin*2, id='left')
+        frame_right = Frame(left_column_width, margin, right_column_width-margin*2, page_height-margin*2, id='right')
+
+# single_frame = Frame(margin, margin, page_width-margin*2, page_height-margin*2, id='single')
+# single_column_layout = PageTemplate(id='OneCol', frames=[single_frame])
+
+        left_column_width_p2 = (page_width-margin*3) // 2
+        right_column_width_p2 = left_column_width_p2
+        frame_left_p2 = Frame(margin, margin, left_column_width_p2-margin*2, page_height-margin*2, id='left')
+        frame_right_p2 = Frame(left_column_width_p2, margin, right_column_width_p2-margin*2, page_height-margin*2, id='right')
+
+# 创建PageTemplate，并添加到文档
+        page_template = PageTemplate(id='TwoColumns', frames=[frame_left, frame_right])
+        page_template_p2 = PageTemplate(id='TwoColumns_p2', frames=[frame_left_p2, frame_right_p2])
+        doc.addPageTemplates([page_template, page_template_p2])
+
+        styles = getSampleStyleSheet()
+
+# 自定义样式
+        custom_style = ParagraphStyle(
+            name="Custom",
+            parent=styles['Normal'],
+            fontName="Helvetica",
+            fontSize=10,
+            # leading=15,
+            alignment=TA_JUSTIFY,
+        )
+
+        title_style = ParagraphStyle(
+            name="TitleCustom",
+            parent=styles['Title'],
+            fontName="Helvetica-Bold",
+            fontSize=16,
+            leading=20,
+            alignment=TA_LEFT,
+            spaceAfter=10,
+        )
+
+        subtitle_style = ParagraphStyle(
+            name="Subtitle",
+            parent=styles['Heading2'],
+            fontName="Helvetica-Bold",
+            fontSize=14,
+            leading=12,
+            alignment=TA_LEFT,
+            spaceAfter=6,
+        )
+
+# 准备左栏和右栏内容
+        content = []
+        # 标题
+        content.append(Paragraph(f"Equity Research Report: {ra.get_company_info()['Company Name']}", title_style))
+
+# 子标题
+        content.append(Paragraph("Income Statement Analysis", subtitle_style))
+        content.append(Paragraph(answer['Income Statement Analysis'], custom_style))
+
+        content.append(Paragraph("Balance Sheet Analysis", subtitle_style))
+        content.append(Paragraph(answer['Balance Sheet Analysis'], custom_style))
+
+        content.append(Paragraph("Cashflow Analysis", subtitle_style))
+        content.append(Paragraph(answer['Cash Flow Analysis'], custom_style))
+
+        content.append(Paragraph("Summarization", subtitle_style))
+        content.append(Paragraph(answer['Financial Summary'], custom_style))
+
+
+        content.append(FrameBreak())  # 用于从左栏跳到右栏
+
+        table_style = TableStyle([
+            ('BACKGROUND', (0, 0), (-1, -1), colors.white),
+            ('BACKGROUND', (0, 0), (-1, 0), colors.white),
+            ('FONT', (0, 0), (-1, -1), 'Helvetica', 8),
+            ('FONT', (0, 0), (-1, 0), 'Helvetica-Bold', 12),
+            ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
+            # 第一列左对齐
+            ('ALIGN', (0,1), (0,-1), 'LEFT'),
+            # 第二列右对齐
+            ('ALIGN', (1,1), (1,-1), 'RIGHT'),
+            # 标题栏下方添加横线
+            ('LINEBELOW', (0,0), (-1,0), 2, colors.black),
+        ])
+        full_length = right_column_width-2*margin
+
+        rating, _ = ra.get_analyst_recommendations()
+        target_price = ra.get_target_price()
+        if target_price is not None:
+            data = [
+                ["Rating:", rating.upper()],
+                ["Target Price:", f"{target_price:.2f}"]
+            ]
+        else:
+            data = [["Rating:", rating.upper()]]
+        col_widths = [full_length//3*2, full_length//3]
+        table = Table(data, colWidths=col_widths)
+        table.setStyle(table_style)
+        content.append(table)
+
+# content.append(Paragraph("", custom_style))
+        content.append(Spacer(1, 0.15*inch))
+        key_data = ra.get_key_data()
+        # 表格数据
+        data = [["Key data", ""]]
+        data += [
+            [k, v] for k, v in key_data.items()
+        ]
+        col_widths = [full_length//3*2, full_length//3]
+        table = Table(data, colWidths=col_widths)
+        table.setStyle(table_style)
+        content.append(table)
+
+
+# 将Matplotlib图像添加到右栏
+
+# 历史股价
+        data = [["Share Performance"]]
+        col_widths = [full_length]
+        table = Table(data, colWidths=col_widths)
+        table.setStyle(table_style)
+        content.append(table)
+
+        plot_path = ra.get_stock_performance()
+        width = right_column_width
+        height = width//2
+        content.append(Image(plot_path, width=width, height=height))
+
+        # 历史PE和EPS
+        data = [["PE & EPS"]]
+        col_widths = [full_length]
+        table = Table(data, colWidths=col_widths)
+        table.setStyle(table_style)
+        content.append(table)
+
+        plot_path = ra.get_pe_eps_performance()
+        width = right_column_width
+        height = width//2
+        content.append(Image(plot_path, width=width, height=height))
+
+
+# 开始新的一页
+        content.append(NextPageTemplate('TwoColumns_p2'))
+        content.append(PageBreak())
+
+        table_style2 = TableStyle([
+            ('BACKGROUND', (0, 0), (-1, -1), colors.white),
+            ('BACKGROUND', (0, 0), (-1, 0), colors.white),
+            ('FONT', (0, 0), (-1, -1), 'Helvetica', 6),
+            ('FONT', (0, 0), (-1, 0), 'Helvetica-Bold', 10),
+            ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
+            # 第一列左对齐
+            ('ALIGN', (0,1), (0,-1), 'LEFT'),
+            # 第二列右对齐
+            ('ALIGN', (1,1), (1,-1), 'RIGHT'),
+            # 标题栏下方添加横线
+            ('LINEBELOW', (0,0), (-1,0), 2, colors.black),
+            # 表格最下方添加横线
+            ('LINEBELOW', (0,-1), (-1,-1), 2, colors.black),
+        ])
+
+
+# 第二页及之后内容，使用单栏布局
+        df = ra.get_income_stmt()
+        df = df[df.columns[:3]]
+        def convert_if_money(value):
+            if np.abs(value) >= 1000000:
+                return value / 1000000
+            else:
+                return value
+
+# 应用转换函数到DataFrame的每列
+        df = df.applymap(convert_if_money)
+
+        df.columns = [col.strftime('%Y') for col in df.columns]
+        df.reset_index(inplace=True)
+        currency = ra.info['currency']
+        df.rename(columns={'index': f'FY ({currency} mn)'}, inplace=True)  # 可选：重命名索引列为“序号”
+        table_data = [["Income Statement"]]
+        table_data += [df.columns.to_list()] + df.values.tolist()
+
+        table = Table(table_data)
+        table.setStyle(table_style2)
+        content.append(table)
+
+        content.append(FrameBreak())  # 用于从左栏跳到右栏
+
+        df = ra.get_cash_flow()
+        df = df[df.columns[:3]]
+
+        df = df.applymap(convert_if_money)
+
+        df.columns = [col.strftime('%Y') for col in df.columns]
+        df.reset_index(inplace=True)
+        currency = ra.info['currency']
+        df.rename(columns={'index': f'FY ({currency} mn)'}, inplace=True)  # 可选：重命名索引列为“序号”
+        table_data = [["Cash Flow Sheet"]]
+        table_data += [df.columns.to_list()] + df.values.tolist()
+
+        table = Table(table_data)
+        table.setStyle(table_style2)
+        content.append(table)
+# content.append(Paragraph('This is a single column on the second page', custom_style))
+# content.append(Spacer(1, 0.2*inch))
+# content.append(Paragraph('More content in the single column.', custom_style))
+
+# 构建PDF文档
+        doc.build(content)
+        # Path to your PDF file
+        pdf_file = f'projects/{ticker_symbol}/{ticker_symbol}_report.pdf'
+
+# Open the file in binary mode and read its contents
+        with open(pdf_file, 'rb') as f:
+            binary_data = f.read()
+
+        stpdf.pdf_viewer(input=binary_data, width=700)
+
+        
