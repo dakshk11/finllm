@@ -6,6 +6,7 @@ from pandas.tseries.offsets import DateOffset
 from sec_api import ExtractorApi
 import requests
 import pandas as pd
+from PIL import Image
 import json
 import numpy as np
 import os
@@ -460,6 +461,11 @@ if ticker_symbol:
     ra = ReportAnalysis(ticker_symbol)
     answer = ra.financial_summarization()
     st.write(answer)
+
+    img = Image.open(f'projects\{ticker_symbol}\stock_performance.png')
+
+# Display the image using streamlit
+    st.image(img, caption='Stock Peformance', use_column_width=True)
 
     options = ['No', 'Yes']
     selected_option = st.selectbox('Do You Want a PDF Report:', options)
