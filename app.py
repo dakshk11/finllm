@@ -707,4 +707,3 @@ if ticker_symbol:
 
         stpdf.pdf_viewer(input=binary_data, width=700)
 
-        
